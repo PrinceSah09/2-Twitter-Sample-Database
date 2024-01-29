@@ -1,6 +1,6 @@
 # Twitter Sample Database
 
-<img src = "Twitter_Data.png" height = "550px " width = "1000px">
+<img src = "Twitter_Data.png" height = "450px " width = "1000px">
 
  
 ## Sample Data
